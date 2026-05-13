@@ -5,7 +5,7 @@
         "changelog": "Initial release with Cart Titan."
     },
     "experimental": {
-        "version": "1.0.0-test-1",
+        "version": "1.0.1",
         "download_url": "",
         "changelog": "Testing build."
     }
