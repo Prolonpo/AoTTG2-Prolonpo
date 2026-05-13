@@ -1,0 +1,12 @@
+{
+    "stable": {
+        "version": "1.0.0",
+        "download_url": "",
+        "changelog": "Initial release with Cart Titan."
+    },
+    "experimental": {
+        "version": "1.0.0",
+        "download_url": "",
+        "changelog": "Testing build."
+    }
+}
