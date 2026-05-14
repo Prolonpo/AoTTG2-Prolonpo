@@ -1,12 +1,12 @@
 {
     "stable": {
-        "version": "1.0.0",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.1.0.0-auto-updater-test/AoTTG2-Prolonpo.Build.zip",
+        "version": "1.5.0",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.1.5-base-AoTTG2-Prolonpo-with-autoupdater/AoTTG2-Prolonpo.Build.zip",
         "changelog": "Initial release with Cart Titan."
     },
     "experimental": {
-        "version": "1.0.0",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.1.0.0-auto-updater-test/AoTTG2-Prolonpo.Build.zip",
-        "changelog": "Testing build link - currently sync to stable build"
+        "version": "1.5.0",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.1.5-base-AoTTG2-Prolonpo-with-autoupdater/AoTTG2-Prolonpo.Build.zip",
+        "changelog": "Testing build link - currently synced to stable build"
     }
 }
