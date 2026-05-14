@@ -5,8 +5,8 @@
         "changelog": "Initial release with Cart Titan."
     },
     "experimental": {
-        "version": "1.5.0",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.1.5-base-AoTTG2-Prolonpo-with-autoupdater/AoTTG2-Prolonpo.Build.zip",
-        "changelog": "Testing build link - currently synced to stable build"
+        "version": "9.0.0-test",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.0-test/Test-Aottg2.prolonpo.zip",
+        "changelog": "Testing build - only updates the game version, test to see if this works"
     }
 }
