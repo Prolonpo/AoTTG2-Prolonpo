@@ -5,8 +5,8 @@
         "changelog": "Initial release with Cart Titan."
     },
     "experimental": {
-        "version": "9.0.0-test",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.0-test/Test-Aottg2.prolonpo.zip",
-        "changelog": "Testing build - only updates the game version, test to see if this works"
+        "version": "9.0.1-test",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.1-test/Test-Aottg2.prolonpo.zip",
+        "changelog": "Testing build - increased shifter transform light from 28 to 58 units wide. Increased hitbox of transformation attack from 30 to 50 units."
     }
 }
