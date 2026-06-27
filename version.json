@@ -2,7 +2,7 @@
     "stable": {
         "version": "9.0.3",
         "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.3/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Finalized the full transition from AoTTG2 EE's codebase to base AoTTG2's codebase whilst porting over the Cart Titan. Added a Patreon Supporters tab to thank those who have chosen to support this mod's development financially."
+        "changelog": "Finalized code from AoTTG2EE to AoTTG2's. Added a Patreon Supporters tab."
     },
     "experimental": {
         "version": "9.0.2-test",
