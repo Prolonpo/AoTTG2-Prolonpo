@@ -2,7 +2,7 @@
     "stable": {
         "version": "9.0.3",
         "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.3/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Finalized code from AoTTG2EE to AoTTG2's. Added a Patreon Supporters tab."
+        "changelog": "Finalized code transfer from AoTTG2EE to AoTTG2. Added Patreon Supporters tab."
     },
     "experimental": {
         "version": "9.0.2-test",
