@@ -5,8 +5,8 @@
         "changelog": "Finalized code transfer from AoTTG2EE to AoTTG2. Added Patreon Supporters tab."
     },
     "experimental": {
-        "version": "9.0.2-test",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.2-test/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Testing build - finalizing port of Cart Titan from AoTTG2:EE to base code AoTTG2"
+        "version": "9.1.0-test",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.1.0-test/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Cinematic Camera replacing the Camera Tilt"
     }
 }
