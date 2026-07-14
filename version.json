@@ -5,8 +5,8 @@
         "changelog": "Finalized code transfer from AoTTG2EE to AoTTG2. Added Patreon Supporters tab."
     },
     "experimental": {
-        "version": "9.1.0-test",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.1.0-test/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Cinematic Camera replacing the Camera Tilt"
+        "version": "9.2.1-test",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.2.1-test/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Revamped Amputation, Limb Regrowth, and Improved Cinematic Camera"
     }
 }
