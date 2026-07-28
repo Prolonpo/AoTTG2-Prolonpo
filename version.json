@@ -1,12 +1,12 @@
 {
     "stable": {
-        "version": "9.0.3",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.0.3/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Finalized code transfer from AoTTG2EE to AoTTG2. Added Patreon Supporters tab."
+        "version": "10.1.8",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.10.1.8/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Ragdoll & Gibblets. Also contains Cinematic Camera and Revamped Amputation."
     },
     "experimental": {
-        "version": "9.2.1-test",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.9.2.1-test/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Revamped Amputation, Limb Regrowth, and Improved Cinematic Camera"
+        "version": "11.3.2",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.11.3.2/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Unstable and buggy build for Marley soldiers, has spawner in map editor. For performance test."
     }
 }
