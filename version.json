@@ -7,6 +7,6 @@
     "experimental": {
         "version": "11.3.2",
         "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.11.3.2/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Unstable and buggy build for Marley soldiers, has spawner in map editor. For performance test."
+        "changelog": "Unstable and buggy build for Marley soldiers, spawner in map editor. For performance test. Also contains new 3DMG moves"
     }
 }
