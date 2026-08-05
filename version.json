@@ -1,8 +1,8 @@
 {
     "stable": {
-        "version": "10.1.8",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.10.1.8/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Ragdoll & Gibblets. Also contains Cinematic Camera and Revamped Amputation."
+        "version": "11.3.2",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.11.3.2/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Revamped 3DMG Movesets, cool flourish moves"
     },
     "experimental": {
         "version": "11.3.3",
