@@ -5,8 +5,8 @@
         "changelog": "Revamped 3DMG Movesets, cool flourish moves"
     },
     "experimental": {
-        "version": "11.3.3",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.11.3.3/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Fixed bug where airship spawning marley soldier crashes MC"
+        "version": "12.3.6",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.12.3.6/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Test build for Marley Update"
     }
 }
