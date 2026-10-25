@@ -5,7 +5,7 @@
         "changelog": "Marley Update - Marley soldier, airships, and mission!"
     },
     "experimental": {
-        "version": "14.9.38,
+        "version": "14.9.38",
         "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V14.9.38/Aottg2-Prolonpo_Data.zip",
         "changelog": "Test build for the AI Allies update"
     }
