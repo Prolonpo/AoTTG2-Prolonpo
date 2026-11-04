@@ -5,8 +5,8 @@
         "changelog": "Marley Update - Marley soldier, airships, and mission!"
     },
     "experimental": {
-        "version": "14.9.38",
-        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V14.9.38/Aottg2-Prolonpo_Data.zip",
-        "changelog": "Test build for the AI Allies update"
+        "version": "15.0.52",
+        "download_url": "https://github.com/Prolonpo/AoTTG2-Prolonpo/releases/download/V.15.0.52/Aottg2-Prolonpo_Data.zip",
+        "changelog": "Test build for Anime Accurate Thunder Spear & ODM Wire physics"
     }
 }
